@@ -1,0 +1,22 @@
+{
+    "name": "beaumind/searchable",
+    "description": "a simple php trait for laravel to search in models and related models",
+    "type": "library",
+    "require": {
+        "php": ">=5.4",
+        "illuminate/support": "5.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "A.Hassani",
+            "email": "a.hassani.sbu@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Beaumind\\Searchable\\": "src"
+        }
+    },
+    "minimum-stability": "dev"
+}
