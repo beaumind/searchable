@@ -2,10 +2,10 @@
 a simple php trait for laravel >= 5.0 to search in models and related models
 # Installation
 
-Simply add the package to your `composer.json` file and run `composer update`.
+Simply Run the Composer require comand.
 
 ```
-"beaumind/searchable": "1.*"
+"composer require beaumind/searchable"
 ```
 
 # Usage
