@@ -5,7 +5,7 @@ a simple php trait for laravel >= 5.0 to search in models and related models
 Simply Run the Composer require comand.
 
 ```
-"composer require beaumind/searchable"
+composer require beaumind/searchable
 ```
 
 # Usage
